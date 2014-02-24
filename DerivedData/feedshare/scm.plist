@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Volumes/DATA/Temorary Data/FeedscreenRepo</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2014-02-24T11:08:13Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Volumes/DATA/Temorary Data/FeedscreenRepo/adnan.h</string>
+		<string>/Volumes/DATA/Temorary Data/FeedscreenRepo/adnan.m</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>
